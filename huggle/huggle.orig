@@ -129,7 +129,8 @@ SOURCES += main.cpp\
     projectconfiguration.cpp \
     wikipagetagsform.cpp \
     collectable_smartptr.cpp \
-    mediawikiobject.cpp
+    mediawikiobject.cpp \
+    hugglefeedproviderws.cpp
 
 HEADERS  += mainwindow.hpp \
     login.hpp \
@@ -210,7 +211,8 @@ HEADERS  += mainwindow.hpp \
     huggleoption.hpp \
     wikipagetagsform.hpp \
     collectable_smartptr.hpp \
-    mediawikiobject.hpp
+    mediawikiobject.hpp \
+    hugglefeedproviderws.hpp
 
 FORMS    += mainwindow.ui \
     login.ui \
